@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aurora sharing science</title>
+    <link>https://aurora-sharing-science.github.io/aurora-blog/es/</link>
+    <description>Recent content on Aurora sharing science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>Lorena De Leon - All rights reserved</copyright>
+    <lastBuildDate>Sun, 07 Oct 2018 11:17:14 +0200</lastBuildDate><atom:link href="https://aurora-sharing-science.github.io/aurora-blog/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sequia en el siglo 21, un enfoque global</title>
+      <link>https://aurora-sharing-science.github.io/aurora-blog/es/blog/my-first-post/</link>
+      <pubDate>Sun, 07 Oct 2018 11:17:14 +0200</pubDate>
+      
+      <guid>https://aurora-sharing-science.github.io/aurora-blog/es/blog/my-first-post/</guid>
+      <description>Since the last decade, we have been witnessing the occurrence of several extreme weather events like record breaking heat waves, heavy rainfall, flooding, hurricanes and drought.</description>
+    </item>
+    
+  </channel>
+</rss>
