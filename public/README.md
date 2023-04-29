@@ -1,1 +1,0 @@
-# aurora science blog
