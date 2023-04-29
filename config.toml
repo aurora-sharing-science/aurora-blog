@@ -1,6 +1,6 @@
 DefaultContentLanguage = "en"
 
-baseURL = "https://aurora-sharing-science.github.io/aurora-blog/"
+baseURL = "https://aurora-sharing-science.github.io/aurora-blog"
 theme = "mediumish-gohugo-theme"
 summaryLength = 25
 copyright = "Lorena De Leon - All rights reserved"
@@ -19,17 +19,17 @@ enableEmoji = true
     title = "Aurora sharing science"
 
     [languages.en.params]
-      logo = "/images/logo.jpg"
+      logo = "images/logo.jpg"
       description ="a blog to share science about our planet!"
       #mailchimp = "you can provide a mailchimp-link here"
 
     [languages.en.params.author]
       name = "Lorena De León"
-      thumbnail = "/images/author.jpg"
+      thumbnail = "images/author.jpg"
       description = "Geoscientist and writer"
 
     [languages.en.params.index]
-      picture = "/images/logo.jpg"
+      picture = "images/logo.jpg"
       title = "Aurora sharing science"
       subtitle = "Earth Sciences communication for everyone"
       mdtext = """**Making science straightforward and relevant**"""
@@ -73,17 +73,17 @@ enableEmoji = true
     title = "Aurora sharing science"
 
     [languages.es.params]
-      logo = "/images/logo.jpg"
+      logo = "images/logo.jpg"
       description ="Un blog para compartir la ciencia de nuestro planeta"
       #mailchimp = "you can provide a mailchimp-link here"
 
     [languages.es.params.author]
       name = "Lorena De León"
-      thumbnail = "/images/author.jpg"
+      thumbnail = "images/author.jpg"
       description = "Geoscientifica y escritora"
 
     [languages.es.params.index]
-      picture = "/images/logo.jpg"
+      picture = "images/logo.jpg"
       title = "Aurora sharing science"
       subtitle = "Comunicación en Ciencias de la Tierra para todos"
       mdtext = """**Haciendo que la ciencia sea clara y relevante**"""
