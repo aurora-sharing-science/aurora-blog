@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aurora-sharing-science.github.io/aurora-blog/</loc>
-    <lastmod>2018-10-07T11:17:14+02:00</lastmod>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://aurora-sharing-science.github.io/aurora-blog/blog/</loc>
-    <lastmod>2018-10-07T11:17:14+02:00</lastmod>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -28,8 +28,11 @@
                 href="https://aurora-sharing-science.github.io/aurora-blog/blog/"
                 />
   </url><url>
+    <loc>https://aurora-sharing-science.github.io/aurora-blog/tags/climate-change/</loc>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://aurora-sharing-science.github.io/aurora-blog/tags/drought/</loc>
-    <lastmod>2018-10-07T11:17:14+02:00</lastmod>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -42,7 +45,7 @@
                 />
   </url><url>
     <loc>https://aurora-sharing-science.github.io/aurora-blog/blog/my-first-post/</loc>
-    <lastmod>2018-10-07T11:17:14+02:00</lastmod>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -54,21 +57,8 @@
                 href="https://aurora-sharing-science.github.io/aurora-blog/blog/my-first-post/"
                 />
   </url><url>
-    <loc>https://aurora-sharing-science.github.io/aurora-blog/tags/interesting/</loc>
-    <lastmod>2018-10-07T11:17:14+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://aurora-sharing-science.github.io/aurora-blog/es/tags/interesting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aurora-sharing-science.github.io/aurora-blog/tags/interesting/"
-                />
-  </url><url>
     <loc>https://aurora-sharing-science.github.io/aurora-blog/tags/</loc>
-    <lastmod>2018-10-07T11:17:14+02:00</lastmod>
+    <lastmod>2023-04-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
