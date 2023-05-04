@@ -299,8 +299,8 @@ span.post-read-more a:hover {
     margin-right: 5px;
 }
 
-.mainheading h1.sitetitle {
-    font-family: Merryweather;
+h1.index-title, h1.sitetitle {
+    font-family: "STSong";
     font-weight: 700;
 }
 

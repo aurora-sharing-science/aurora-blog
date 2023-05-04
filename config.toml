@@ -16,7 +16,7 @@ enableEmoji = true
     languageCode = "en"
     languageName = "en"
     weight = 1
-    title = "Aurora sharing science"
+    title = "aurOra sharing science"
 
     [languages.en.params]
       logo = "images/logo.jpg"
@@ -30,7 +30,7 @@ enableEmoji = true
 
     [languages.en.params.index]
       picture = "images/logo.jpg"
-      title = "Aurora sharing science"
+      title = "aurOra sharing science"
       subtitle = "Earth Sciences communication for everyone"
       mdtext = """**Making science straightforward and relevant**"""
       alertbar = false
@@ -70,7 +70,7 @@ enableEmoji = true
     languageCode = "es"
     languageName = "es"
     weight = 2
-    title = "Aurora sharing science"
+    title = "aurOra sharing science"
 
     [languages.es.params]
       logo = "images/logo.jpg"
@@ -84,7 +84,7 @@ enableEmoji = true
 
     [languages.es.params.index]
       picture = "images/logo.jpg"
-      title = "Aurora sharing science"
+      title = "aurOra sharing science"
       subtitle = "Divulgación de las Ciencias de la Tierra"
       mdtext = """**Haciendo que la ciencia sea clara y relevante**"""
       alertbar = false
