@@ -2,84 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aurora-sharing-science.github.io/aurora-blog/es/</loc>
+    <loc>https://aurora-sharing-science.com/es/</loc>
     <lastmod>2018-10-07T11:17:14+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://aurora-sharing-science.github.io/aurora-blog/"
+                href="https://aurora-sharing-science.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://aurora-sharing-science.github.io/aurora-blog/es/"
+                href="https://aurora-sharing-science.com/es/"
                 />
   </url><url>
-    <loc>https://aurora-sharing-science.github.io/aurora-blog/es/blog/</loc>
+    <loc>https://aurora-sharing-science.com/es/blog/</loc>
     <lastmod>2018-10-07T11:17:14+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://aurora-sharing-science.github.io/aurora-blog/blog/"
+                href="https://aurora-sharing-science.com/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://aurora-sharing-science.github.io/aurora-blog/es/blog/"
+                href="https://aurora-sharing-science.com/es/blog/"
                 />
   </url><url>
-    <loc>https://aurora-sharing-science.github.io/aurora-blog/es/tags/drought/</loc>
+    <loc>https://aurora-sharing-science.com/es/tags/drought/</loc>
     <lastmod>2018-10-07T11:17:14+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://aurora-sharing-science.github.io/aurora-blog/tags/drought/"
+                href="https://aurora-sharing-science.com/tags/drought/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://aurora-sharing-science.github.io/aurora-blog/es/tags/drought/"
+                href="https://aurora-sharing-science.com/es/tags/drought/"
                 />
   </url><url>
-    <loc>https://aurora-sharing-science.github.io/aurora-blog/es/tags/interesting/</loc>
+    <loc>https://aurora-sharing-science.com/es/tags/interesting/</loc>
     <lastmod>2018-10-07T11:17:14+02:00</lastmod>
   </url><url>
-    <loc>https://aurora-sharing-science.github.io/aurora-blog/es/blog/my-first-post/</loc>
-    <lastmod>2018-10-07T11:17:14+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://aurora-sharing-science.github.io/aurora-blog/blog/my-first-post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://aurora-sharing-science.github.io/aurora-blog/es/blog/my-first-post/"
-                />
-  </url><url>
-    <loc>https://aurora-sharing-science.github.io/aurora-blog/es/tags/</loc>
+    <loc>https://aurora-sharing-science.com/es/blog/my-first-post/</loc>
     <lastmod>2018-10-07T11:17:14+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://aurora-sharing-science.github.io/aurora-blog/tags/"
+                href="https://aurora-sharing-science.com/blog/my-first-post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://aurora-sharing-science.github.io/aurora-blog/es/tags/"
+                href="https://aurora-sharing-science.com/es/blog/my-first-post/"
                 />
   </url><url>
-    <loc>https://aurora-sharing-science.github.io/aurora-blog/es/categories/</loc>
+    <loc>https://aurora-sharing-science.com/es/tags/</loc>
+    <lastmod>2018-10-07T11:17:14+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://aurora-sharing-science.github.io/aurora-blog/categories/"
+                href="https://aurora-sharing-science.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://aurora-sharing-science.github.io/aurora-blog/es/categories/"
+                href="https://aurora-sharing-science.com/es/tags/"
+                />
+  </url><url>
+    <loc>https://aurora-sharing-science.com/es/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://aurora-sharing-science.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://aurora-sharing-science.com/es/categories/"
                 />
   </url>
 </urlset>
