@@ -1,6 +1,6 @@
 DefaultContentLanguage = "en"
 
-baseURL = "https://aurora-sharing-science.github.io/aurora-blog"
+baseURL = "https://aurora-sharing-science.com/"
 theme = "mediumish-gohugo-theme"
 summaryLength = 25
 copyright = "Lorena De León - All rights reserved"
