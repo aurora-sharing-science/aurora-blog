@@ -1,8 +1,8 @@
 ---
 title: "Drought in the 21st century, a global approach"
 #subtitle: "A global approach"
-date: 2023-04-30
-publishdate: 2023-04-30
+date: 2023-05-13
+publishdate: 2023-05-13
 image: "/images/blog/1.jpg"
 tags: ["climate change","drought"]
 comments: false

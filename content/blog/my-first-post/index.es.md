@@ -1,7 +1,7 @@
 ---
 title: "Sequía en el siglo 21, un enfoque global"
-date: 2018-10-07T11:17:14+02:00
-publishdate: 2018-10-07T11:17:14+02:00
+date: 2023-05-13
+publishdate: 2018-05-13
 image: "/images/blog/1.jpg"
 tags: ["interesting","drought"]
 comments: false
